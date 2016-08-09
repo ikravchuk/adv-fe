@@ -1,0 +1,24 @@
+{
+  "name": "adv-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikravchuk/adv-fe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikravchuk/adv-fe/issues"
+  },
+  "homepage": "https://github.com/ikravchuk/adv-fe#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "run-sequence": "^1.2.2"
+  }
+}

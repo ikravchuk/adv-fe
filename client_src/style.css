@@ -1,0 +1,23 @@
+.posts-json {
+  width:1500px;
+}
+.json {
+  list-style: none;
+}
+.json--post {
+  margin: 0.5em 0 0.5em 0;
+}
+
+.posts-table {
+  width: 1500px;
+  padding: 1em;
+}
+.table--row {
+  display: block;
+  width: 1500px;
+  border: solid 1px grey;
+  padding: 1em;
+}
+.table--row-dark {
+  background-color:grey;
+}
